@@ -26,9 +26,9 @@ st.write("## 正在被使用的數據")
 data
 
 #Create and name sidebar
-st.sidebar.header('Choose your weightings')
+st.sidebar.header('選擇您的數據')
 
-st.sidebar.write("""#### 選擇您的數據""")
+st.sidebar.write("""#### choose your SG bias""")
 def user_input_features():
     sgott = st.sidebar.slider('SG Off the Tee', 0, 100, 70, 5)
     sga2g = st.sidebar.slider('SG Approach to Green', 0, 100, 90, 5)
