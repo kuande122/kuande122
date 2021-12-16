@@ -5,12 +5,12 @@ import numpy as np
 from PIL import Image
 
 
-linkedinlink = '[Andy Uttley - LinkedIn](https://www.linkedin.com/in/andrewuttley/)'
-mediumlink = '[Andy Uttley - Medium Blog](https://andy-uttley.medium.com/)'
 
-#Create header
-st.write("""# PGA Data Modeller""")
-st.write("""## How it works""")
+
+
+#創建標題
+st.write("""# NBA預測季後賽資格系統""")
+st.write("""## 如何運作""")
 st.write("Model your predicted winner by using the left side of the screen to apply  weightings to the different metrics. This will give you a ranked 'predicted outcome' based on your selections. "
          "The current selections are those deemed most appropriate to the Masters based on recent outcomes.")
 st.write("## For more information visit:")
