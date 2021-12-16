@@ -79,7 +79,7 @@ else:
     df_user_biased = user_input_biased()
 
 
-st.write("## 你所選擇的數據 ")
+st.write("## 您所選擇的數據 ")
 df_user
 
 
@@ -87,7 +87,7 @@ df_user
 #Output rankings based on users selections
 st.write(
     """
-    ## YOUR PREDICTION OUTPUT
+    ## 您預測的結果
     """
 )
 
