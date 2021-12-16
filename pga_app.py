@@ -17,7 +17,7 @@ st.write("## For more information visit:")
 
 
 #image
-image = Image.open('Tiger.jpg')
+image = Image.open('NBA.jpg')
 st.image(image)
 
 #Bring in the data
