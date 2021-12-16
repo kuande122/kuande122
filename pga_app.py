@@ -5,7 +5,7 @@ import numpy as np
 from PIL import Image
 
 
-
+linkedinlink = '[Andy Uttley - LinkedIn](https://www.linkedin.com/in/andrewuttley/)'
 mediumlink = '[Andy Uttley - Medium Blog](https://andy-uttley.medium.com/)'
 
 #創建標題
