@@ -22,7 +22,7 @@ st.image(image)
 
 #Bring in the data
 data = pd.read_excel('PGA_Database.xlsx')
-st.write("## THE DATA BEING USED")
+st.write("## 正在被使用的數據")
 data
 
 #Create and name sidebar
