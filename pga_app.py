@@ -79,7 +79,7 @@ else:
     df_user_biased = user_input_biased()
 
 
-st.write("## YOUR CHOSEN WEIGHTINGS: ")
+st.write("## 你所選擇的數據 ")
 df_user
 
 
