@@ -13,8 +13,8 @@ st.write("""# NBA預測季後賽資格系統""")
 st.write("""## 如何運作""")
 st.write("Model your predicted winner by using the left side of the screen to apply  weightings to the different metrics. This will give you a ranked 'predicted outcome' based on your selections. "
          "The current selections are those deemed most appropriate to the Masters based on recent outcomes.")
-st.write("## For more information visit:")
-st.write(mediumlink, " | ", linkedinlink)
+
+
 
 
 #image
