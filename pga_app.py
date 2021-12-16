@@ -11,7 +11,7 @@ mediumlink = '[Andy Uttley - Medium Blog](https://andy-uttley.medium.com/)'
 #創建標題
 st.write("""# NBA預測季後賽資格系統""")
 st.write("""## 如何運作""")
-st.write("通過使用螢幕左側將權重應用於不同的指標，對預測的獲勝者進行建模。這將根據您的選擇為您提供排名的預測結果，目前的選擇是根據最近的結果被認為最適合季後賽的選擇。")
+st.write("通過使用螢幕左側將顯示數值，應用於不同的指標，對預測的隊伍進行調整。這將根據您的選擇為您提供排名的預測結果，目前的選擇是根據最近的結果被認為有資格進入季後賽的選擇。")
 st.write("## For more information visit:")
 
 
